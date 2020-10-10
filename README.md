@@ -1,16 +1,18 @@
-### Hi there 👋
+### Eduardo Costa here, welcome!
 
-<!--
-**EduhCosta/EduhCosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/eduhcosta/)
+[![Whatsapp Bagge](https://img.shields.io/badge/-Whatsapp-Green?style=flat-square&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5581997865427&text=Hi%2C%20can%20I%20talking%20about%20your%20gitHub%3F)
 
-Here are some ideas to get you started:
+Solving problems since 2003 and until now my love for the `Javascript` never has done.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Like a people:
+- Draw
+- Dancing
+- Guitar
+- Games
+
+## Like a dev:
+- Javascript [React, React Native, Angular and Node]
+- C# [For games]
+- Java [Android]
+
