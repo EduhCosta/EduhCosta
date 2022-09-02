@@ -12,6 +12,6 @@ Solving problems since 2003 and until now my love for the `Javascript` never has
 
 ## Like a dev:
 - Javascript [React, React Native, Angular and Node]
-- C# [For games]
+- C#, Lua & C++ [For games]
 - Java [Android]
 
